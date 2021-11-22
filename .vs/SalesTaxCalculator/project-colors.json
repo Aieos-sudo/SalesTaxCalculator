@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1a5a8641-219e-43a0-9f7c-ac62ba9482f7": {
+      "ProjectGuid": "1a5a8641-219e-43a0-9f7c-ac62ba9482f7",
+      "DisplayName": "SalesTaxCalculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

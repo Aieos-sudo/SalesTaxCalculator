@@ -1,0 +1,14 @@
+C:\Users\Aieos_\Documents\code\SalesTaxCalculator\SalesTaxCalculator\bin\Debug\netcoreapp3.1\SalesTaxCalculator.exe
+C:\Users\Aieos_\Documents\code\SalesTaxCalculator\SalesTaxCalculator\bin\Debug\netcoreapp3.1\SalesTaxCalculator.deps.json
+C:\Users\Aieos_\Documents\code\SalesTaxCalculator\SalesTaxCalculator\bin\Debug\netcoreapp3.1\SalesTaxCalculator.runtimeconfig.json
+C:\Users\Aieos_\Documents\code\SalesTaxCalculator\SalesTaxCalculator\bin\Debug\netcoreapp3.1\SalesTaxCalculator.runtimeconfig.dev.json
+C:\Users\Aieos_\Documents\code\SalesTaxCalculator\SalesTaxCalculator\bin\Debug\netcoreapp3.1\SalesTaxCalculator.dll
+C:\Users\Aieos_\Documents\code\SalesTaxCalculator\SalesTaxCalculator\bin\Debug\netcoreapp3.1\SalesTaxCalculator.pdb
+C:\Users\Aieos_\Documents\code\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\netcoreapp3.1\SalesTaxCalculator.csproj.AssemblyReference.cache
+C:\Users\Aieos_\Documents\code\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\netcoreapp3.1\SalesTaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aieos_\Documents\code\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\netcoreapp3.1\SalesTaxCalculator.AssemblyInfoInputs.cache
+C:\Users\Aieos_\Documents\code\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\netcoreapp3.1\SalesTaxCalculator.AssemblyInfo.cs
+C:\Users\Aieos_\Documents\code\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\netcoreapp3.1\SalesTaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Aieos_\Documents\code\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\netcoreapp3.1\SalesTaxCalculator.dll
+C:\Users\Aieos_\Documents\code\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\netcoreapp3.1\SalesTaxCalculator.pdb
+C:\Users\Aieos_\Documents\code\SalesTaxCalculator\SalesTaxCalculator\obj\Debug\netcoreapp3.1\SalesTaxCalculator.genruntimeconfig.cache
