@@ -35,6 +35,7 @@ namespace SalesTaxCalculator
                 totalAfterTax = 0;
             }
             while (confirmation.ToLower() == "y");
+            Console.WriteLine("Thanks, bye!");
         }
     }
 }
